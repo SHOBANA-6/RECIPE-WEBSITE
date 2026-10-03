@@ -1,4 +1,9 @@
 # RECIPE-WEBSITE
+
+<img width="736" height="552" alt="10 top UI trends for 2017" src="https://github.com/user-attachments/assets/3c5a2a92-5699-4c65-bfde-33e2cbef4930" />
+
+
+
 A web-based recipe platform where users can browse, search, and view various recipes with ingredients and cooking steps. Built using HTML, CSS, and JavaScript to provide an interactive, user-friendly experience for food lovers.
 
 # Recipe Hub - A PHP & MySQL Recipe Website
